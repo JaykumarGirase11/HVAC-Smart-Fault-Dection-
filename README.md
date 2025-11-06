@@ -1,6 +1,6 @@
 # 🌡️ HVAC Fault Detection System
 
-An AI-driven fault detection system for HVAC equipment using supervised machine learning, achieving 89% accuracy in identifying 8 common fault types.
+An AI-driven fault detection system for HVAC equipment using supervised machine learning, achieving 90% accuracy in identifying 8 common fault types.
 
 ## 🎯 Project Overview
 
